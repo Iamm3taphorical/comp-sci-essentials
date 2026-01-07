@@ -39,16 +39,19 @@ jobs:
             echo "should_run=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Get scheduled files for today
+      - name: Fetch content from vault
         if: steps.check.outputs.should_run == 'true'
         run: |
+          git fetch origin content-vault
+          git checkout origin/content-vault -- scheduled-uploads/day-$(printf '%02d' ${{ steps.day.outputs.day_num }})
+          
           DAY=$(printf '%02d' ${{ steps.day.outputs.day_num }})
           if [ -d "scheduled-uploads/day-$DAY" ]; then
-            # Move files from scheduled folder to main structure
+            # Move files from vault to main structure
             cp -r scheduled-uploads/day-$DAY/* . 2>/dev/null || true
-            # Remove the scheduled folder for this day to clean up
-            rm -rf "scheduled-uploads/day-$DAY"
-            echo "Moved files for day $DAY"
+            # Clean up the staged folder so it doesn't get committed
+            rm -rf scheduled-uploads
+            echo "Retrieved and moved files for day $DAY"
           fi
 
       - name: Random delay (appear natural)
