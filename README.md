@@ -15,7 +15,7 @@ As a Computer Science student, I understand how demanding and competitive the CS
 
 That's why I created this repository: **a single, unified collection** of the most valuable notes, problem sets, and learning materials I've gathered throughout my journey. My goal is to continuously expand and refine this repo, making it a **go-to resource hub** for students and developers preparing for technical interviews or simply looking to strengthen their fundamentals.
 
-If you find this helpful, please consider **⭐ starring the repository** it helps others discover these resources too!
+If you find this helpful, please consider ** starring the repository** it helps others discover these resources too!
 
 **Happy Learning!**
 
