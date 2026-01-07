@@ -1,4 +1,4 @@
-# 🚀 Complete Interview Preparation Guide
+# Complete Interview Preparation Guide
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -7,21 +7,21 @@ A comprehensive, well-organized collection of resources for cracking technical i
 
 ---
 
-## � Assalamu Alaikum!
+## Assalamu Alaikum!
 
 Hello! My name is **Mahir Dyan**, and welcome to this repository.
 
-As a Computer Science student, I understand how demanding and competitive the CSE/CS field can be. To excel in this ever-evolving industry, having access to quality resources is crucial—but finding them scattered across the internet can be overwhelming.
+As a Computer Science student, I understand how demanding and competitive the CSE/CS field can be. To excel in this ever-evolving industry, having access to quality resources is crucial, but finding them scattered across the internet can be overwhelming.
 
 That's why I created this repository: **a single, unified collection** of the most valuable notes, problem sets, and learning materials I've gathered throughout my journey. My goal is to continuously expand and refine this repo, making it a **go-to resource hub** for students and developers preparing for technical interviews or simply looking to strengthen their fundamentals.
 
-If you find this helpful, please consider **⭐ starring the repository**—it helps others discover these resources too!
+If you find this helpful, please consider **⭐ starring the repository** it helps others discover these resources too!
 
-**Happy Learning! 🎯**
+**Happy Learning!**
 
 ---
 
-## �📁 Repository Structure
+## Repository Structure
 
 ```
 Interview-Prep-Guide/
@@ -37,7 +37,7 @@ Interview-Prep-Guide/
 
 ---
 
-## 📚 Quick Navigation
+##  Quick Navigation
 
 ### 1️⃣ Data Structures & Algorithms
 | Topic | Description |
@@ -93,7 +93,7 @@ Interview-Prep-Guide/
 
 ---
 
-## 🗺️ Recommended Starter Path
+##  Recommended Starter Path
 
 If you're new or unsure where to begin, follow this strategic path to avoid burnout:
 
@@ -119,11 +119,11 @@ If you're new or unsure where to begin, follow this strategic path to avoid burn
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please read our contributing guidelines before submitting PRs.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
