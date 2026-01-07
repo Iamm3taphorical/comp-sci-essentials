@@ -93,32 +93,29 @@ Interview-Prep-Guide/
 
 ---
 
-## 🗓️ Suggested Study Plan
+## 🗺️ Recommended Starter Path
 
-### Week 1-2: Foundations
-- Arrays, Strings, LinkedList basics
-- Time & Space complexity analysis
+If you're new or unsure where to begin, follow this strategic path to avoid burnout:
 
-### Week 3-4: Core Data Structures
-- Trees, Graphs, Stacks, Queues
-- Sorting & Searching algorithms
+### 1️⃣ Phase 1: The Foundation (Weeks 1-3)
+**Goal:** Build strong basics. Don't rush.
+- **Start Here:** [`01-Data-Structures-Algorithms`](01-Data-Structures-Algorithms/) & [`03-Computer-Science-Core`](03-Computer-Science-Core/)
+- **Focus:** Arrays, Linked Lists, OOP Principles, and Basic OS/DBMS concepts.
 
-### Week 5-6: Advanced Algorithms
-- Dynamic Programming patterns
-- Recursion & Backtracking
+### 2️⃣ Phase 2: Confidence Building (Weeks 4-6)
+**Goal:** Solve problems without looking at solutions.
+- **Resource:** [`02-Coding-Problem-Sets/LeetCode-Top-75`](02-Coding-Problem-Sets/LeetCode-Top-75/)
+- **Why:** 75 curated problems are better than 500 random ones. Focus on quality over quantity.
 
-### Week 7-8: Problem Practice
-- Work through the 45-Day Challenge
-- Focus on company-specific questions
+### 3️⃣ Phase 3: Pattern Recognition (Weeks 7-9)
+**Goal:** Learn to solve *new* problems.
+- **Resource:** [`06-Interview-Patterns`](06-Interview-Patterns/)
+- **Strategy:** Learn patterns like Sliding Window, Two Pointers, and Fast & Slow Pointers. This is the secret to cracking unseen interview questions.
 
-### Week 9-10: System Design
-- Study system design fundamentals
-- Practice with real-world examples
-
-### Week 11-12: Final Prep
-- Mock interviews
-- CS fundamentals revision
-- Behavioral preparation
+### 4️⃣ Phase 4: The Final Boss (Weeks 10+)
+**Goal:** Crack SDE-2 or high-level interviews.
+- **Resource:** [`04-System-Design-Architecture`](04-System-Design-Architecture/)
+- **Focus:** Scalability, Load Balancing, and Database Design. Usually required for senior roles but impressive for freshers.
 
 ---
 
