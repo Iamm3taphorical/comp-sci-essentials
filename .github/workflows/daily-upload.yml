@@ -46,7 +46,9 @@ jobs:
           if [ -d "scheduled-uploads/day-$DAY" ]; then
             # Move files from scheduled folder to main structure
             cp -r scheduled-uploads/day-$DAY/* . 2>/dev/null || true
-            echo "Copied files for day $DAY"
+            # Remove the scheduled folder for this day to clean up
+            rm -rf "scheduled-uploads/day-$DAY"
+            echo "Moved files for day $DAY"
           fi
 
       - name: Random delay (appear natural)
