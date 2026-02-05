@@ -1,4 +1,4 @@
-# Complete Interview Preparation Guide
+# 🚀 Complete Interview Preparation Guide
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -7,21 +7,21 @@ A comprehensive, well-organized collection of resources for cracking technical i
 
 ---
 
-## Assalamu Alaikum!
+## � Assalamu Alaikum!
 
 Hello! My name is **Mahir Dyan**, and welcome to this repository.
 
-As a Computer Science student, I understand how demanding and competitive the CSE/CS field can be. To excel in this ever-evolving industry, having access to quality resources is crucial, but finding them scattered across the internet can be overwhelming.
+As a Computer Science student, I understand how demanding and competitive the CSE/CS field can be. To excel in this ever-evolving industry, having access to quality resources is crucial—but finding them scattered across the internet can be overwhelming.
 
 That's why I created this repository: **a single, unified collection** of the most valuable notes, problem sets, and learning materials I've gathered throughout my journey. My goal is to continuously expand and refine this repo, making it a **go-to resource hub** for students and developers preparing for technical interviews or simply looking to strengthen their fundamentals.
 
-If you find this helpful, please consider ** starring the repository** it helps others discover these resources too!
+If you find this helpful, please consider **⭐ starring the repository**—it helps others discover these resources too!
 
-**Happy Learning!**
+**Happy Learning! 🎯**
 
 ---
 
-## Repository Structure
+## �📁 Repository Structure
 
 ```
 Interview-Prep-Guide/
@@ -37,7 +37,7 @@ Interview-Prep-Guide/
 
 ---
 
-##  Quick Navigation
+## 📚 Quick Navigation
 
 ### 1️⃣ Data Structures & Algorithms
 | Topic | Description |
@@ -93,40 +93,43 @@ Interview-Prep-Guide/
 
 ---
 
-##  Recommended Starter Path
+## 🗓️ Suggested Study Plan
 
-If you're new or unsure where to begin, follow this strategic path to avoid burnout:
+### Week 1-2: Foundations
+- Arrays, Strings, LinkedList basics
+- Time & Space complexity analysis
 
-### 1️⃣ Phase 1: The Foundation (Weeks 1-3)
-**Goal:** Build strong basics. Don't rush.
-- **Start Here:** [`01-Data-Structures-Algorithms`](01-Data-Structures-Algorithms/) & [`03-Computer-Science-Core`](03-Computer-Science-Core/)
-- **Focus:** Arrays, Linked Lists, OOP Principles, and Basic OS/DBMS concepts.
+### Week 3-4: Core Data Structures
+- Trees, Graphs, Stacks, Queues
+- Sorting & Searching algorithms
 
-### 2️⃣ Phase 2: Confidence Building (Weeks 4-6)
-**Goal:** Solve problems without looking at solutions.
-- **Resource:** [`02-Coding-Problem-Sets/LeetCode-Top-75`](02-Coding-Problem-Sets/LeetCode-Top-75/)
-- **Why:** 75 curated problems are better than 500 random ones. Focus on quality over quantity.
+### Week 5-6: Advanced Algorithms
+- Dynamic Programming patterns
+- Recursion & Backtracking
 
-### 3️⃣ Phase 3: Pattern Recognition (Weeks 7-9)
-**Goal:** Learn to solve *new* problems.
-- **Resource:** [`06-Interview-Patterns`](06-Interview-Patterns/)
-- **Strategy:** Learn patterns like Sliding Window, Two Pointers, and Fast & Slow Pointers. This is the secret to cracking unseen interview questions.
+### Week 7-8: Problem Practice
+- Work through the 45-Day Challenge
+- Focus on company-specific questions
 
-### 4️⃣ Phase 4: The Final Boss (Weeks 10+)
-**Goal:** Crack SDE-2 or high-level interviews.
-- **Resource:** [`04-System-Design-Architecture`](04-System-Design-Architecture/)
-- **Focus:** Scalability, Load Balancing, and Database Design. Usually required for senior roles but impressive for freshers.
+### Week 9-10: System Design
+- Study system design fundamentals
+- Practice with real-world examples
+
+### Week 11-12: Final Prep
+- Mock interviews
+- CS fundamentals revision
+- Behavioral preparation
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please read our contributing guidelines before submitting PRs.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-** Star this repository if you find it helpful!**
+**⭐ Star this repository if you find it helpful!**
